@@ -7,6 +7,8 @@
 ```
 
 # HARDWARE VERSION 1.0
+![](https://github.com/rbuwaENG/MindWAVE_hardware/blob/main/image1.JPG?raw=true)
+
 includes:
   - firmware
   - Server script
@@ -23,7 +25,7 @@ includes:
           - Defautly port is set to COM11 you can change according to your port number 
   - Upload code for esp 32
   - Microphone is connected to 5001 port
-
+![](https://github.com/rbuwaENG/MindWAVE_hardware/blob/main/image2.jpeg?raw=true)
   ## Server script
   - Python version - 3.9.4
   - Install pyaudio, threding , wave and socket libraries 
